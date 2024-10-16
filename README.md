@@ -31,10 +31,10 @@
 
 ### 🌍 Connect with Me
 <p style="font-size: 18px; color: #333;">
-  - GitHub: [ahmedbinjaffar](https://github.com/ahmedbinjaffar)<br>
-  - Medium: [ahmedbinjaffar](https://medium.com/@ahmedbinjaffar)<br>
-  - Email: [ahmadbinjffar66@gmail.com](mailto:ahmadbinjffar66@gmail.com)<br>
-  - Resume: [View My Resume](https://drive.google.com/file/d/1joyZgJAZzEUi3-vTJAppeougPv1ro6YX/view?usp=sharing)
+  - GitHub:https://github.com/ahmedbinjaffar <br>
+  - Medium:https://medium.com/@ahmedbinjaffar <br>
+  - Email:ahmadbinjffar66@gmail.com <br>
+  - Resume:https://drive.google.com/file/d/1joyZgJAZzEUi3-vTJAppeougPv1ro6YX/view?usp=sharing
 </p>
 
 ---
