@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #4B0082; font-family: 'Arial', sans-serif;">👋 Hi, I'm <span style="color: #FF4500;">Ahmed Bin Jaffar</span></h1>
-<h3 align="center" style="color: #4682B4; font-family: 'Arial', sans-serif;">A Passionate Flutter Developer from Pakistan</h3>
+<h1 align="center" style="color: #6200EE; font-family: 'Arial', sans-serif;">👋 Hi, I'm <span style="color: #FF6F00;">Ahmed Bin Jaffar</span></h1>
+<h3 align="center" style="color: #03DAC6; font-family: 'Arial', sans-serif;">A Passionate Developer from Pakistan</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahmedbinjaffar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -14,72 +14,72 @@
 ---
 
 ### 🚀 Current Focus
-<p style="font-size: 18px; color: #333;">
-  - 🔭 Working on: <span style="color: #FF6347;">Multi Vendor E-commerce Mobile App</span><br>
-  - 🌱 Learning: <span style="color: #FF6347;">Advanced state management in Flutter (Bloc, Riverpod),</span> Cloud integration with Google Cloud and AWS
-</p>
+<div style="font-size: 18px; color: #333; text-align: center;">
+  <p>🔭 <strong>Working on:</strong> <span style="color: #FFAB00;">Multi Vendor E-commerce Mobile App</span></p>
+  <p>🌱 <strong>Learning:</strong> <span style="color: #FFAB00;">Advanced state management in Flutter (Bloc, Riverpod), Cloud integration with Google Cloud and AWS</span></p>
+</div>
 
 ---
 
 ### 🤝 Collaboration & Support
-<p style="font-size: 18px; color: #333;">
-  - 👯 Looking to collaborate on: <span style="color: #FF6347;">Flutter Projects</span><br>
-  - 🤝 Seeking help with: <span style="color: #FF6347;">Advanced API Integration in Flutter Projects</span>
-</p>
+<div style="font-size: 18px; color: #333; text-align: center;">
+  <p>👯 <strong>Looking to collaborate on:</strong> <span style="color: #FFAB00;">Flutter Projects</span></p>
+  <p>🤝 <strong>Seeking help with:</strong> <span style="color: #FFAB00;">Advanced API Integration in Flutter Projects</span></p>
+</div>
 
 ---
 
 ### 🌍 Connect with Me
-<p style="font-size: 18px; color: #333;">
-  - GitHub: https://github.com/ahmedbinjaffar <br>
-  - Medium: https://medium.com/@ahmedbinjaffar <br>
-  - Email: **ahmadbinjffar66@gmail.com** <br>
-  - Resume: https://drive.google.com/file/d/1joyZgJAZzEUi3-vTJAppeougPv1ro6YX/view?usp=sharing
-</p>
+<div style="font-size: 18px; color: #333; text-align: center;">
+  <p>GitHub: [ahmedbinjaffar](https://github.com/ahmedbinjaffar)</p>
+  <p>Medium: [ahmedbinjaffar](https://medium.com/@ahmedbinjaffar)</p>
+  <p>Email: <strong><a href="mailto:ahmadbinjffar66@gmail.com" style="color: #FFAB00;">ahmadbinjffar66@gmail.com</a></strong></p>
+  <p>Resume: [View My Resume](https://drive.google.com/file/d/1joyZgJAZzEUi3-vTJAppeougPv1ro6YX/view?usp=sharing)</p>
+</div>
 
 ---
 
 ### 💬 Ask Me About
-<p style="font-size: 18px; color: #333;">
-  - <span style="color: #FF6347;">Flutter, Dart, Firebase, Mobile App Development</span>
-</p>
+<div style="font-size: 18px; color: #333; text-align: center;">
+  <p><span style="color: #FFAB00;">Flutter, Dart, Firebase, Mobile App Development</span></p>
+</div>
 
 ---
 
 ### ⚡ Fun Fact
-<p style="font-size: 18px; color: #333;">
-  - I write code more than I sleep! 😴💻
-</p>
+<div style="font-size: 18px; color: #333; text-align: center;">
+  <p>I write code more than I sleep! 😴💻</p>
+</div>
 
 ---
 
 ### 🌐 Connect with Me on Social Media:
 <p align="center">
-  <a href="https://x.com/ahmedbinjaffar" target="blank">
+  <a href="https://x.com/ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ahmedbinjaffar" target="blank">
+  <a href="https://linkedin.com/in/ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/19476988" target="blank">
+  <a href="https://stackoverflow.com/users/19476988" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
   </a>
-  <a href="https://kaggle.com/ahmedbinjaffar" target="blank">
+  <a href="https://kaggle.com/ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
   </a>
-  <a href="https://fb.com/ahmedbinjaffar" target="blank">
+  <a href="https://fb.com/ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/ahmedbinjaffar" target="blank">
+  <a href="https://instagram.com/ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://medium.com/@ahmedbinjaffar" target="blank">
+  <a href="https://medium.com/@ahmedbinjaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/ahmed-bin-jaffar" target="blank">
+  <a href="https://www.youtube.com/c/ahmed-bin-jaffar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
   </a>
-  <a href="https://discord.gg/uWmyGCkd" target="blank">
+  <a href="https://discord.gg/uWmyGCkd" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
@@ -87,7 +87,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
